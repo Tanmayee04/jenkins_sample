@@ -1,4 +1,3 @@
 #!/bin/bash
 
-echo "Hellooo from this side"
-
+echo "Hellooo from Tann and Tosh"
